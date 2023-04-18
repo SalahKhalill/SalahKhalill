@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalahKhalill
 - 👀 I’m interested in JavaScript React.Js Java...
-- 🌱 I’m currently learning Java And React.js
+- 🌱 I’m currently learning React.js And Java
 - 📫 How to reach me , Email: salahhamed111@gmail.com 
 
 <!---
